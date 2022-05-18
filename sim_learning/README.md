@@ -1,3 +1,1 @@
-Переработанный код из https://github.com/kandorm/CLINE
-
-Работает только с roberta моделями (roberta-base, roberta-large ...)
+Код для одновременного обучения на SNLI/MNLI и на вспомогательную задачу на промежуточных слоях.
